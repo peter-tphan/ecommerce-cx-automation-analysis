@@ -1,0 +1,14 @@
+﻿Intent,Total Volume,Automated Volume,Automation %,Agent volume %,Agent,Recontact by Phone,Recontact By Email,Recontact by Chat,Overall Recontact,Overall %
+Order Status,15000,8932,60%,6068,40%,158,104,163,425,5%
+Request Representative,12500,0,0%,12500,100%,,,,,
+Cancel Order,12000,5671,47%,6329,53%,869,113,134,1116,20%
+Unable to Understand,10000,0,0%,10000,100%,,,,,
+Update Order,10000,4615,46%,5385,54%,287,180,88,555,12%
+Delivery/Shipping Issue,9000,3915,44%,5085,56%,114,700,123,937,24%
+Product Inquiry,8000,4183,52%,3817,48%,145,184,164,493,12%
+Return Request,7000,3003,43%,3997,57%,289,70,127,486,16%
+Billing Issue,4000,2234,56%,1766,44%,137,61,102,300,13%
+Account Management,3000,1466,49%,1534,51%,145,108,79,332,23%
+Technical Support,2000,888,44%,1112,56%,75,34,83,192,22%
+Feedback,1000,529,53%,471,47%,38,17,42,96,18%
+Totals,93500,35437,38%,58063,62%,2256,1570,1105,4931,14%
