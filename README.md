@@ -1,4 +1,4 @@
-# 📞 eCommerce CX Automation Analytics Case Study
+# ☎️ eCommerce CX Automation Analytics Case Study
 
 A real take home case study focused on eCommerce customer service automation, Week 1 performance diagnosis, customer communication, and implementation readiness.
 
